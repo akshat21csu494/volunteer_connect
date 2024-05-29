@@ -1,6 +1,6 @@
 # VolunteerConnect
 
-SevaSanskriti is a Flutter application that is a comprehensive platform for Non-Governmental Organizations (NGOs) to connect with volunteers, donors, and individuals interested in supporting various causes. The app facilitates seamless communication, donation management, event organization, and volunteer coordination for NGOs.
+VolunteerConnect is a Flutter application that is a comprehensive platform for Non-Governmental Organizations (NGOs) to connect with volunteers, donors, and individuals interested in supporting various causes. The app facilitates seamless communication, donation management, event organization, and volunteer coordination for NGOs.
 
 
 > ⚠️ This Flutter Application is made in collaboration with [Fenansi Indorwala](https://github.com/FenansiIndorwala)
